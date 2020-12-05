@@ -1,0 +1,78 @@
+"Notes"	"County"	"County Code"	"Mother's Single Race 6"	"Mother's Single Race 6 Code"	Deaths	Births	Death Rate
+	"Alameda County, CA"	"06001"	"Asian"	"A"	22	6471	3.40
+	"Alameda County, CA"	"06001"	"Black or African American"	"2054-5"	10	1567	6.38 (Unreliable)
+	"Alameda County, CA"	"06001"	"White"	"2106-3"	20	9150	2.19
+	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	28	7842	3.57
+	"Fresno County, CA"	"06019"	"Asian"	"A"	20	1840	10.87
+	"Fresno County, CA"	"06019"	"White"	"2106-3"	84	11340	7.41
+	"Kern County, CA"	"06029"	"White"	"2106-3"	52	11065	4.70
+	"Los Angeles County, CA"	"06037"	"Asian"	"A"	55	17194	3.20
+	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	79	8389	9.42
+	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	296	81048	3.65
+	"Los Angeles County, CA"	"06037"	"More than one race"	"M"	10	3129	3.20 (Unreliable)
+	"Merced County, CA"	"06047"	"White"	"2106-3"	13	3411	3.81 (Unreliable)
+	"Monterey County, CA"	"06053"	"White"	"2106-3"	26	5419	4.80
+	"Orange County, CA"	"06059"	"Asian"	"A"	31	9924	3.12
+	"Orange County, CA"	"06059"	"White"	"2106-3"	73	24207	3.02
+	"Riverside County, CA"	"06065"	"Asian"	"A"	13	2192	5.93 (Unreliable)
+	"Riverside County, CA"	"06065"	"Black or African American"	"2054-5"	16	1644	9.73 (Unreliable)
+	"Riverside County, CA"	"06065"	"White"	"2106-3"	87	23353	3.73
+	"Sacramento County, CA"	"06067"	"Asian"	"A"	10	3430	2.92 (Unreliable)
+	"Sacramento County, CA"	"06067"	"Black or African American"	"2054-5"	20	1991	10.05
+	"Sacramento County, CA"	"06067"	"White"	"2106-3"	49	11885	4.12
+	"San Bernardino County, CA"	"06071"	"Asian"	"A"	10	2825	3.54 (Unreliable)
+	"San Bernardino County, CA"	"06071"	"Black or African American"	"2054-5"	24	2535	9.47
+	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	115	22202	5.18
+	"San Bernardino County, CA"	"06071"	"More than one race"	"M"	10	1193	8.38 (Unreliable)
+	"San Diego County, CA"	"06073"	"Asian"	"A"	28	5089	5.50
+	"San Diego County, CA"	"06073"	"Black or African American"	"2054-5"	19	1979	9.60 (Unreliable)
+	"San Diego County, CA"	"06073"	"White"	"2106-3"	112	30901	3.62
+	"San Diego County, CA"	"06073"	"More than one race"	"M"	11	1684	6.53 (Unreliable)
+	"San Francisco County, CA"	"06075"	"Asian"	"A"	13	2813	4.62 (Unreliable)
+	"San Francisco County, CA"	"06075"	"White"	"2106-3"	16	5095	3.14 (Unreliable)
+	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	41	6866	5.97
+	"San Mateo County, CA"	"06081"	"White"	"2106-3"	11	4923	2.23 (Unreliable)
+	"Santa Barbara County, CA"	"06083"	"White"	"2106-3"	18	4808	3.74 (Unreliable)
+	"Santa Clara County, CA"	"06085"	"Asian"	"A"	29	9477	3.06
+	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	39	10697	3.65
+	"Solano County, CA"	"06095"	"White"	"2106-3"	12	3151	3.81 (Unreliable)
+	"Sonoma County, CA"	"06097"	"White"	"2106-3"	10	3948	2.53 (Unreliable)
+	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	27	6366	4.24
+	"Tulare County, CA"	"06107"	"White"	"2106-3"	35	6405	5.46
+	"Ventura County, CA"	"06111"	"White"	"2106-3"	29	7983	3.63
+	"Unidentified Counties, CA"	"06999"	"White"	"2106-3"	100	23860	4.19
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2017-2018 Expanded"
+"Query Parameters:"
+"States: California (06)"
+"Year of Death: 2018"
+"Group By: County; Mother's Single Race 6"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd-expanded.html for more information."
+"---"
+"Query Date: Nov 7, 2020 5:20:20 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2017, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program,"
+"on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current-expanded.html on Nov 7, 2020 5:20:20 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Unreliable."
+"3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#WeightFactors-Totals."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Weight Factors."
+"5. County-level data are shown only for counties with populations of 250,000 persons or more. Data for all counties with fewer"
+"than 250,000 persons within a state are combined together under the label ""Unidentified Counties."""
